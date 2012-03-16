@@ -1,0 +1,6 @@
+; $Id$
+package = Piratenpartei
+name = Piratenpartei Admin Menu
+description = Sortiert alle Einstellungen der Piraten Module in ein Submenu ein.
+core = 6.x
+version = "6.x-1.0"
